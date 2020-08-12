@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsProject</string>
+    <string name="num1tag">Number 1</string>
+    <string name="num2tag">Number 2</string>
+</resources>
